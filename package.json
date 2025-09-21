@@ -1,0 +1,17 @@
+{
+  "name": "healthbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^6.2.0",
+    "firebase-admin": "^13.5.0",
+    "twilio": "^5.0.4"
+  }
+}
